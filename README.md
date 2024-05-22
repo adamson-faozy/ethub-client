@@ -9,7 +9,10 @@ Finish up the project obviously
 still many boiler plate areas
 
 checklists are:
+
 -complete nav and header
+
 -Style up the Messages List
--Add functionality to send messahes via  transaction signable with metamasek or if not possible we ask users for provate key to sigh transactions/calculate nonce
+
+-Add functionality to send messages via  transaction signable with metamask or if not possible we ask users for private key to sign transactions/calculate nonce
 
